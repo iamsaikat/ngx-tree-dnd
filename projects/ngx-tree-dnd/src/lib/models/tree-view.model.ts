@@ -26,6 +26,7 @@ export interface TreeItemOptions {
     showActionButtons?: boolean;
     showDeleteButton?: boolean;
     showExpandButton?: boolean;
+    showAddButtons?: boolean;
     // settings for component (it`s not for user);
     currentlyDragging?: boolean;
     destenationTop?: boolean;

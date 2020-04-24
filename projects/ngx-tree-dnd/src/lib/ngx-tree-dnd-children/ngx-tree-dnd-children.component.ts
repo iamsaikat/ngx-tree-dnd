@@ -40,6 +40,7 @@ export class NgxTreeChildrenComponent implements AfterViewInit {
       destenationBottom: false,
       disabled: false,
       showExpandButton: true,
+      showAddButtons: true,
       showDeleteButton: true
     };
     if (this.element.options) {
